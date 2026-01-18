@@ -40,6 +40,8 @@ Matplotlib / Seaborn – data visualization
 
 Jupyter Notebook – interactive analysis
 
+SQL
+
 ## 🔍 Methodology
 
 ### Data Cleaning
